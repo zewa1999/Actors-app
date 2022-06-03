@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actors>
+    <actor>
+        <name>Jack Nicholson</name>
+        <description>Jack Nicholson, an American actor, producer, director and screenwriter, is a three-time Academy Award winner and twelve-time nominee. Nicholson is also notable for being one of two actors - the other being Michael Caine - who have received an Oscar nomination in every decade from the '60s through the '00s.</description>
+        <birthDate>April 22, 1937</birthDate>
+        <bestMovie>Chinatown</bestMovie>
+        <image>jack_nicholson.jpeg</image>
+        <wikiPage>https://en.wikipedia.org/wiki/Jack_Nicholson</wikiPage>
+    </actor>
+    <actor>
+        <name>Marlon Brando</name>
+        <description>Marlon Brando is widely considered the greatest movie actor of all time, rivaled only by the more theatrically oriented Laurence Olivier in terms of esteem. Unlike Olivier, who preferred the stage to the screen, Brando concentrated his talents on movies after bidding the Broadway stage adieu in 1949, a decision for which he was severely criticized.</description>
+        <birthDate> April 3, 1924</birthDate>
+        <bestMovie>Apocalypse Now</bestMovie>
+        <image>marlon_brando.jpeg</image>
+        <wikiPage>https://en.wikipedia.org/wiki/Marlon_Brando</wikiPage>    </actor>
+    <actor>
+        <name>Robert De Niro</name>
+        <description>One of the greatest actors of all time, Robert De Niro was born in Manhattan, New York City, to artists Virginia (Admiral) and Robert De Niro Sr. His paternal grandfather was of Italian descent, and his other ancestry is Irish, English, Dutch, German, and French. He was trained at the Stella Adler Conservatory and the American Workshop.</description>
+        <birthDate>August 17, 1943</birthDate>
+        <bestMovie>Raging Bull</bestMovie>
+        <image>robert_de_niro.jpeg</image>
+        <wikiPage>https://en.wikipedia.org/wiki/Robert_De_Niro</wikiPage>       </actor>
+    <actor>
+        <name>Al Pacino</name>
+        <description>Alfredo James "Al" 'Pacino established himself as a film actor during one of cinema's most vibrant decades, the 1970s, and has become an enduring and iconic figure in the world of American movies.
+        He was born in Manhattan, New York City, to Itaia-American parents, Rose (nee Gerardi) and Sal Pacino. They divorced when he was young. His mother moved them into his grandparents' home in the South Bronx.</description>
+        <birthDate>April 25, 1940</birthDate>
+        <bestMovie>Serpico</bestMovie>
+        <image>al_pacino.jpeg</image>
+        <wikiPage>https://en.wikipedia.org/wiki/Al_Pacino</wikiPage>        </actor>
+    <actor>
+        <name>Daniel Day-Lewis</name>
+        <description>Born in London, England, Daniel Michael Blake Day-Lewis is the second child of Cecil Day-Lewis (pseudonym Cecil Day-Lewis), Poet Laureate of the U.K., and his second wife, actress Jill Balcon. His maternal grandfather was Sir Michael Balcon, an important figure in the history of British cinema and head of the famous Ealing Studios.</description>
+        <birthDate>April 29, 1957</birthDate>
+        <bestMovie>There Will Be Blood</bestMovie>
+        <image>daniel_day_lewis.jpeg</image>
+        <wikiPage>https://en.wikipedia.org/wiki/Daniel_Day-Lewis</wikiPage>
+    </actor>
+    <actor>
+        <name>Dustin Hoffman</name>
+        <description>Dustin Lee Hoffman was born in Los Angeles, California, to Lillian (Gold) and Harry Hoffman, who was a furniture salesman and prop supervisor for Columbia Pictures. He was raised in a Jewish family (from Ukraine, Russia-Poland, and Romania). Hoffman graduated from Los Angeles High School in 1955, and went to Santa Monica City College.</description>
+        <birthDate>August 8, 1937</birthDate>
+        <bestMovie>Tootsie</bestMovie>
+        <image>dustin_hoffman.jpeg</image>
+        <wikiPage>https://en.wikipedia.org/wiki/Dustin_Hoffman</wikiPage>    </actor>
+    <actor>
+        <name>Tom Hanks</name>
+        <description>Thomas Jeffrey Hanks was born in Concord, California, to Janet Marylyn (Frager), a hospital worker, and Amos Mefford Hanks, an itinerant cook. His mother's family, originally surnamed "Fraga", was entirely Portuguese, while his father was of mostly English ancestry.</description>
+        <birthDate>July 9, 1956</birthDate>
+        <bestMovie>Cast Away</bestMovie>
+        <image>tom_hanks.jpeg</image>
+        <wikiPage>https://en.wikipedia.org/wiki/Tom_Hanks</wikiPage>
+    </actor>
+    <actor>
+        <name>Anthony Hopkins</name>
+        <description>Anthony Hopkins was born in Margam, Wales, to Muriel Anne (Yeats) and Richard Arthur Hopkins, a baker. His parents were both of half Welsh and half English descent. Influenced by Richard Burton, he decided to study at College of Music and Drama and graduated in 1957.</description>
+        <birthDate>December 31, 1937</birthDate>
+        <bestMovie>The Silence of the Lambs</bestMovie>
+        <image>anthony_hopkins.jpeg</image>
+        <wikiPage>https://ro.wikipedia.org/wiki/Anthony_Hopkins</wikiPage>    </actor>
+    <actor>
+        <name>Paul Newman</name>
+        <description>Screen legend, superstar, and the man with the most famous blue eyes in movie history, Paul Leonard Newman was born on January 26, 1925, in Cleveland, Ohio, the second son of Arthur Sigmund Newman (died 1950) and Theresa Fetsko (died 1982).</description>
+        <birthDate>September 26, 2008</birthDate>
+        <bestMovie>The Hustler</bestMovie>
+        <image>paul_newman.jpeg</image>
+        <wikiPage>https://en.wikipedia.org/wiki/Paul_Newman</wikiPage>
+    </actor>
+    <actor>
+        <name>Denzel Washington</name>
+        <description>Denzel Hayes Washington, Jr. was born in Mount Vernon, New York. He is the middle of three children of a beautician mother, Lennis, from Georgia, and a Pentecostal minister father, Denzel Washington, Sr., from Virginia. After graduating from high school, Denzel enrolled at Fordham University, intent on a career in journalism.</description>
+        <birthDate>December 28, 1954</birthDate>
+        <bestMovie>Fences</bestMovie>
+        <image>denzel_washington.jpeg</image>
+        <wikiPage>https://en.wikipedia.org/wiki/Denzel_Washington</wikiPage>    </actor>
+    <actor>
+        <name>Spencer Tracy</name>
+        <description>Spencer Tracy was the second son born, to truck salesman John Edward and Caroline Brown Tracy in Milwaukee, Wisconsin. While attending Marquette Academy, he and classmate Pat O'Brien quit school to enlist in the Navy at the start of World War I.</description>
+        <birthDate>April 5, 1900</birthDate>
+        <bestMovie>Judgment at Nuremberg</bestMovie>
+        <image>spencer_tracy.jpeg</image>
+        <wikiPage>https://en.wikipedia.org/wiki/Spencer_Tracy</wikiPage>    </actor>
+    <actor>
+        <name>Laurence Olivier</name>
+        <description>Laurence Olivier could speak William Shakespeare's lines as naturally as if he were "actually thinking them", said English playwright Charles Bennett, who met Olivier in 1927. Laurence Kerr Olivier was born in Dorking, Surrey, England, to Agnes Louise (Crookenden) and Gerard Kerr Olivier, a High Anglican priest.</description>
+        <birthDate> May 22, 1907</birthDate>
+        <bestMovie>Sleuth</bestMovie>
+        <image>laurence_olivier.jpeg</image>
+        <wikiPage>https://en.wikipedia.org/wiki/Laurence_Olivier</wikiPage>    </actor>
+    <actor>
+        <name>Jack Lemmon</name>
+        <description>Jack Lemmon was born in Newton, Massachusetts, to Mildred Lankford Noel and John Uhler Lemmon, Jr., the president of a doughnut company. His ancestry included Irish (from his paternal grandmother) and English. Jack attended Ward Elementary near his Newton, MA home.</description>
+        <birthDate>February 8, 1925</birthDate>
+        <bestMovie>The Apartment</bestMovie>
+        <image>jack_lemmon.jpeg</image>
+        <wikiPage>https://en.wikipedia.org/wiki/Jack_Lemmon</wikiPage>    </actor>
+    <actor>
+        <name>Michael Caine</name>
+        <description>Michael Caine was born Maurice Joseph Micklewhite in London, to Ellen Frances Marie (Burchell), a charlady, and Maurice Joseph Micklewhite, a fish-market porter. He left school at age 15 and took a series of working-class jobs before joining the British army and serving in Korea during the Koreanwar.</description>
+        <birthDate>March 14, 1933</birthDate>
+        <bestMovie>The Dark Knight</bestMovie>
+        <image>michael_caine.jpeg</image>
+        <wikiPage>https://en.wikipedia.org/wiki/Michael_Caine</wikiPage>    </actor>
+    <actor>
+        <name>James Stewart</name>
+        <description>James Maitland Stewart was born on May 20, 1908 in Indiana, Pennsylvania, to Elizabeth Ruth (Johnson) and Alexander Maitland Stewart, who owned a hardware store. He was of Scottish, Ulster-Scots, and some English, descent. Stewart was educated at a local prep school.</description>
+        <birthDate>May 20, 1908 </birthDate>
+        <bestMovie>Anatomy of a Murder</bestMovie>
+        <image>james_stewart.jpeg</image>
+        <wikiPage>https://en.wikipedia.org/wiki/James_Stewart</wikiPage>    </actor>
+    <actor>
+        <name>Robin Williams</name>
+        <description>Robin McLaurin Williams was born on Saturday, July 21st, 1951, in Chicago, Illinois, a great-great-grandson of Mississippi Governor and Senator, Anselm J. McLaurin. </description>
+        <birthDate>July 21, 1951</birthDate>
+        <bestMovie>Mrs. Doubtfire</bestMovie>
+        <image>robin_williams.jpeg</image>
+        <wikiPage>https://en.wikipedia.org/wiki/Robin_Williams</wikiPage>    </actor>
+    <actor>
+        <name>Robert Duvall</name>
+        <description>Veteran actor and director Robert Selden Duvall was born in San Diego, CA, to Mildred Virginia (Hart), an amateur actress, and William Howard Duvall, a career military officer who later became an admiral. Duvall majored in drama at Principia College </description>
+        <birthDate>January 5, 1931</birthDate>
+        <bestMovie>The Apostle</bestMovie>
+        <image>robert_duvall.jpeg</image>
+        <wikiPage>https://en.wikipedia.org/wiki/Robert_Duvall</wikiPage>    </actor>
+    <actor>
+        <name>Sean Penn</name>
+        <description>Sean Penn is a powerhouse film performer capable of intensely moving work, who has gone from strength to strength during a colourful film career, and who has drawn much media attention for his stormy private life and political viewpoints.</description>
+        <birthDate>August 17, 1960</birthDate>
+        <bestMovie>Mystic River</bestMovie>
+        <image>sean_penn.jpeg</image>
+        <wikiPage>https://en.wikipedia.org/wiki/Sean_Penn</wikiPage>    </actor>
+    <actor>
+        <name>Morgan Freeman</name>
+        <description>With an authoritative voice and calm demeanor, this ever popular American actor has grown into one of the most respected figures in modern US cinema. Morgan was born in Memphis, Tennessee, to Mayme Edna (Revere), a teacher, and Morgan Porterfield Freeman, a barber. </description>
+        <birthDate>June 1, 1937</birthDate>
+        <bestMovie>Se7en</bestMovie>
+        <image>morgan_freeman.jpeg</image>
+        <wikiPage>https://en.wikipedia.org/wiki/Morgan_Freeman</wikiPage>    </actor>
+    <actor>
+        <name>Jeff Bridges</name>
+        <description>Jeffrey Leon Bridges was born on December 4, 1949 in Los Angeles, California, the son of well-known film and TV star Lloyd Bridges and his long-time wife Dorothy Dean Bridges (née Simpson). He grew up amid the happening Hollywood scene with big brother Beau Bridges. </description>
+        <birthDate>December 4, 1949 </birthDate>
+        <bestMovie>The Big Lebowski</bestMovie>
+        <image>jeff_bridges.jpeg</image>
+        <wikiPage>https://en.wikipedia.org/wiki/Jeff_Bridges</wikiPage>    </actor>
+    </actors>

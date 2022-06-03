@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17709" systemVersion="19H2" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="ActorFavoriteModel" representedClassName="ActorFavoriteModel" syncable="YES" codeGenerationType="class">
+        <attribute name="actorBestMovie" optional="YES" attributeType="String"/>
+        <attribute name="actorBirthdate" optional="YES" attributeType="String"/>
+        <attribute name="actorDescription" optional="YES" attributeType="String"/>
+        <attribute name="actorImage" optional="YES" attributeType="String"/>
+        <attribute name="actorName" optional="YES" attributeType="String"/>
+        <attribute name="actorWikiPage" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="ActorModel" representedClassName="ActorModel" syncable="YES" codeGenerationType="class">
+        <attribute name="actorBestMovie" optional="YES" attributeType="String"/>
+        <attribute name="actorBirthdate" optional="YES" attributeType="String"/>
+        <attribute name="actorDescription" optional="YES" attributeType="String"/>
+        <attribute name="actorImage" optional="YES" attributeType="String"/>
+        <attribute name="actorName" optional="YES" attributeType="String"/>
+        <attribute name="actorWikiPage" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="User" representedClassName="User" syncable="YES" codeGenerationType="class">
+        <attribute name="firstName" optional="YES" attributeType="String"/>
+        <attribute name="lastName" optional="YES" attributeType="String"/>
+        <attribute name="mail" optional="YES" attributeType="String"/>
+        <attribute name="password" optional="YES" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="ActorFavoriteModel" positionX="-54" positionY="-9" width="128" height="28"/>
+        <element name="ActorModel" positionX="-63" positionY="-18" width="128" height="28"/>
+        <element name="User" positionX="-36" positionY="9" width="128" height="103"/>
+    </elements>
+</model>
